@@ -1,1 +1,1 @@
-# Notes about Machine Learning
+inside the read me
